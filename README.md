@@ -6,7 +6,7 @@ HELALI Amin
 
 Je suis étudiant en seconde année de BUT Informatique à l’IUT Aix-Marseille. Passionné par le développement web et l’intelligence artificielle.
 
-* 🌍  Aix-en-Provence, France
+* 🌍  Aix-en-Provence, France.
 * 🖥️  Voir mon portfolio. [portfolio-amin-helali](http://portfolio-amin-helali.netlify.app)
 * ✉️  Me contacter. [amin.helali@etu.univ-amu.fr](mailto:amin.helali@etu.univ-amu.fr)
 * 🧠  J'apprends actuellement PHP pour le développement web.
@@ -18,10 +18,11 @@ Je suis étudiant en seconde année de BUT Informatique à l’IUT Aix-Marseille
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/HELALI-Amin-24005915" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amin-helali-15a207345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-stats.vercel.app/api?username=HELALI-Amin-24005915&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HELALI-Amin-24005915's GitHub stats" /></a>
 
-<a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HELALI-Amin-24005915&stroke=6366f1&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></
+<a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HELALI-Amin-24005915&stroke=6366f1&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" />/>
