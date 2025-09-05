@@ -25,4 +25,4 @@ Je suis étudiant en seconde année de BUT Informatique à l’IUT Aix-Marseille
 
 <a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-stats.vercel.app/api?username=HELALI-Amin-24005915&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HELALI-Amin-24005915's GitHub stats" /></a>
 
-<a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HELALI-Amin-24005915&stroke=6366f1&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" />/>
+<a href="http://www.github.com/HELALI-Amin-24005915"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HELALI-Amin-24005915&stroke=6366f1&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
